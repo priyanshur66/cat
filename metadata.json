@@ -1,0 +1,5 @@
+{
+  "name": "Pinni the Cat Game",
+  "description": "A simple snake-like game where you control Pinni the cat, who needs to eat potato chips to survive. Pinni passes through walls but dies of hunger if not fed quickly!",
+  "requestFramePermissions": []
+}
